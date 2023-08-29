@@ -1,1 +1,1 @@
-# IA_generativa_pepiline_python
+# IA_generativa_pipeline_python
